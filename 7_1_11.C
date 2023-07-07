@@ -16,7 +16,7 @@
 
 void main(){
 
-int i,j,e = 5;
+int i,j,k,e = 5;
 
 for(int i = 0;i<e;i++){
 for(int j = 0;j<2*(e-i)-1;j++){
