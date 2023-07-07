@@ -14,7 +14,7 @@ Q.10 Write a Program to print the below pattern using nested for loop.
 #include <conio.h>
 
 void main(){
-    int i,j,e = 5;
+    int i,j,k,e = 5;
 clrscr();
 
 for (int i = 0; i < e; i++) {
