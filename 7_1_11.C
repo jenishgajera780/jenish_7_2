@@ -17,6 +17,7 @@
 void main(){
 
 int i,j,k,e = 5;
+clrscr();
 
 for(int i = 0;i<e;i++){
 for(int j = 0;j<2*(e-i)-1;j++){
